@@ -1,0 +1,4 @@
+Team Profile
+Team Name: Our Team
+Members: Student A, Student B
+Motto: We build together.
