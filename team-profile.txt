@@ -1,4 +1,4 @@
 Team Profile
-Team Name: Our Team
+Team Name: Code Warriors
 Members: Student A, Student B
 Motto: We build together.
